@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Conestoga College
+🎓I'm currently studying at Conestoga College
 
 
 # 💻 Tech Stack:
